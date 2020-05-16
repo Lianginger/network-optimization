@@ -1,9 +1,7 @@
 # Network-optimization
 透過壓縮檔案、壓縮圖片、Media Query、合併檔案，來優化網頁速度。
 
-![before-optimize](https://github.com/Lianginger/network-optimization/blob/master/before-optimize.png)  
-
-![after-optimize](https://github.com/Lianginger/network-optimization/blob/master/after-optimize.png)
+![before-after-optimize](https://github.com/Lianginger/network-optimization/blob/master/before-after-optimize.png)  
 
 ## Minimize all text
 - [HTML Minifier](https://www.willpeavy.com/tools/minifier/)
